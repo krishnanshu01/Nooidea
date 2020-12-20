@@ -1,0 +1,23 @@
+{
+  "name": "fourth",
+  "version": "1.0.0",
+  "description": "page for myself",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node app.js"
+  },
+  "author": "krishnanshu Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.11.8",
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
